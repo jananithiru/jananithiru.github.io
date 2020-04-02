@@ -1,2 +1,3 @@
 name: Janani Thiru
 markdown: 1.0
+permalink: /blog/:year/:month/:day/:title
